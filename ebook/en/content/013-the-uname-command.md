@@ -1,7 +1,6 @@
-# The uname command
+# The `uname` command
 
-The `uname` command lets you print out system information and defaults
-to outputting the kernel name.
+The `uname` command lets you print out system information and defaults to outputting the kernel name.
 
 ### Examples
 
